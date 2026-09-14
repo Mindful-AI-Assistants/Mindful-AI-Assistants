@@ -154,9 +154,9 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 
 > [!IMPORTANT]
 >
-> ###### *Every project, every model, every line of code contributes to a greater mission:*
->
-> ###### *Shaping a future where* [***AI Serves Humanity***](); [***Never the Opposite***]().
+>  *Every project, every model, every line of code contributes to a greater mission:*
+> 
+>  *Shaping a future where* [***AI Serves Humanity***]() ; [***Never the Opposite***]().
 
 
 
