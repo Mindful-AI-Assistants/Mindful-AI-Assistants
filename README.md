@@ -49,7 +49,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 　　　　　　　　⠀　　, 　　　,　　　　　　　　　*  
       
 
-<br>
+###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
 
 <!-- ========= Start SPONSOR BADGE ========= -->
 <p align="center">
@@ -61,23 +61,9 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
       height="36"
     >
   </a>
-&nbsp;&nbsp;
-<a href="https://user-badge.committers.top/brazil/FabianaCampanari">
-    <img
-      src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7%20TOP%20COMMITTER-07111F?style=for-the-badge&labelColor=07111F&logoColor=white"
-      alt="🇧🇷 Top Committer"
-      height="36"
-    >
-    <img
-      src="https://img.shields.io/badge/·····%20BRAZIL-3A424C?style=for-the-badge&labelColor=3A424C&logoColor=white"
-      alt="Brazil"
-      height="36"
-    >
-  </a>
-
 </p>
 
-###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
+
 
 <br><br>
 
