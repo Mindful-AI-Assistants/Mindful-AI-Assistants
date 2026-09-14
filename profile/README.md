@@ -93,18 +93,17 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 
 <!-- ========= START DA VINCI  REF ========= -->
+<!--  
 ### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Study the science of art. Study the art of science… Realize that everything connects to everything else*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
 
 
-<!--
-<h3 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Study the art of science…} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Everything connects to everything else} \space \textbf{\color{LightSkyBlue}𝚿}}$$
 
+<h5 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Study the art of science…} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Everything connects to everything else} \space \textbf{\color{LightSkyBlue}𝚿}}$$
 
-
-<h3 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.} \space \textbf{\color{gray}·} \space \textbf{\color{DodgerBlue}Study the art of science…} \space \textbf{\color{gray}·} \space \textbf{\color{DeepSkyBlue}Realize that everything connects to everything else} \space \textbf{\color{LightSkyBlue}𝚿}}$$
 -->
 
-Esse formato reaproveita exatamente a estrutura que você já está editando no seu README, com três blocos de texto em tons de azul separados por `·`. [github](https://github.com/FabianaCampanari/FabianaCampanari/edit/main/README.md)
+<h6 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.}  \space \textbf{\color{DodgerBlue}Study the art of science…}  \space \textbf{\color{DeepSkyBlue}Realize that everything connects} \space \textbf{\color{LightSkyBlue}to everything else}}$$
+
 
 <br>
 
