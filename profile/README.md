@@ -99,11 +99,6 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 <br><br>
 
 
-
-
-
-
-
 <!-- ========= START DA VINCI  REF ========= -->
 ### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
 
@@ -165,10 +160,10 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 
 > [!IMPORTANT]
 >
-> Every project, every model, every line of code is part of a larger purpose: <br>
-> Building a future where [**AI Serves Humanity**]() — [**Not the Opposite**]().
-> <br>
+> ###### Every project, every model, every line of code is part of a larger purpose: <br>
 >
+> ###### *Building a future where* [***AI Serves Humanity***]();  [***Not the Opposite***]().
+
 
 <br><br>
 
