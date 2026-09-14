@@ -1,5 +1,5 @@
 # Bibliotecas para manipulação de dados
-pandas==3.0.1
+pandas==3.0.5
 numpy==2.5.3
 
 
