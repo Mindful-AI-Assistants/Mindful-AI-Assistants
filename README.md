@@ -74,9 +74,9 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                           * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀　　　　　　　⠀  　　　　　⠀
 <!-- ========= START VIDEO ========= -->
-https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
+[https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0](https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952)
 
-###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
+###### <p align="center"> 🛸 A Visual Reflection · Digital Consciousness · Human Identity 🎶 Visual & Sound Design · Fab ⚡
 
 <br>
 <!-- ========= ENDT VIDEO ========= -->
