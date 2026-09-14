@@ -53,18 +53,17 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 ###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
 <br>    
 
+
 <!-- ========= Start SPONSOR BADGE ========= -->
 <p align="center">
 
   <a href="https://github.com/sponsors/Mindful-AI-Research">
     <img
-\]
       src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
       alt="Sponsor ॐ Mindful AI ⋆ Research & Consulting 𖤐"
       height="36"
   </a>
 </p>
-
 <!-- ========= END SPONSOR BADGE ========= -->
 
 ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
@@ -73,20 +72,23 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 　　　　　　　⠀  　　　　　⠀　
 ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 
+###### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub>
+##### <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
+
+
+<br>
+
 　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                           * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀　　　　　　　⠀  　　　　　⠀
 <!-- ========= START VIDEO ========= -->
-[https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0](https://github.com/user-attachments/assets/94a4735f-66a3-4411-927e-7e0e15ffc952)
+https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
-###### <p align="center">  🎶 A Visual Reflection · Digital Consciousness · Human Identity · Visual & Sound Design · Fab ⚡
+###### <p align="center"> *A visual reflection on digital consciousness and human identity* -  🎶 *Creation by Fabi* 🖤
 
 <br>
 <!-- ========= ENDT VIDEO ========= -->
 
-### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/4600e38a-48d8-4da4-84ca-fec536e90294) *Breathe deeply*  [𖤐]() *Dive within yourself* [𖤐](https://github.com/user-attachments/assets/14a6c935-ced2-4608-8698-293c1108e96b) *Discover your essence* </sub>
-### <p align="center"> <sub> [𖤐]() *We are only [ONE CONSCIOUSNESS](https://github.com/user-attachments/assets/5e41e950-0fa8-4f78-9e1f-e97ff422e5c5) in the infinity field of possibilities... [⚝]()* </sub>
 
 
-<br>
 
 #
 
@@ -94,7 +96,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 
 <!-- ========= START DA VINCI  REF ========= -->
-### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Don't turn around, if the goal is the Stars*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
+### <p align="center"> <sub> [𖤐](https://github.com/user-attachments/assets/bd0be361-3b23-4786-9345-9676982b20a4) ***Study the science of art. Study the art of science… Realize that everything connects to everything else*** [𖤐](https://github.com/user-attachments/assets/27dcc8c4-04cf-4dcd-bd30-4d0aa7dce4da) </sub>
 
 
 
