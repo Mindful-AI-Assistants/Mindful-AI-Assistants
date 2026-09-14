@@ -3,7 +3,7 @@
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
-⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　[✦](https://github.com/user-attachments/assets/f2fa0d48-79f3-45b1-9d47-4e120b8cd686) 　　　　　,　　　　　　　.
+⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　[🛸](https://github.com/user-attachments/assets/f2fa0d48-79f3-45b1-9d47-4e120b8cd686) 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 　　　　　　*　　　　　　　　　　　.　
 　　　　　　*　　　　　　　　. 　　
@@ -154,9 +154,10 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 
 > [!IMPORTANT]
 >
-> ###### Every project, every model, every line of code is part of a larger purpose: <br>
+> ###### *Every project, every model, every line of code contributes to a greater mission:*
 >
-> ###### *Building a future where* [***AI Serves Humanity***]();  [***Not the Opposite***]().
+> ###### *Shaping a future where* [***AI Serves Humanity***](); [***Never the Opposite***]().
+
 
 
 <br><br>
@@ -296,9 +297,7 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 
 >[!TIP]
 >
-> Everyone is invited to build, contribute, and evolve with us. 🖤 
-> <br>
->
+> ###### 🛸 Everyone is invited to build, contribute, and evolve with us.   
 
 <br><br>
 
