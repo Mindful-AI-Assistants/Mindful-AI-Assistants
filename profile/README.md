@@ -3,7 +3,7 @@
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
-⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　[✦](https://github.com/user-attachments/assets/f2fa0d48-79f3-45b1-9d47-4e120b8cd686) 　　　　　,　　　　　　　.
+⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ .　　　　　　　　　　　　　. 　　　　　[🛸](https://github.com/user-attachments/assets/f2fa0d48-79f3-45b1-9d47-4e120b8cd686) 　　　　　,　　　　　　　.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 　　　　　　*　　　　　　　　　　　.　
 　　　　　　*　　　　　　　　. 　　
@@ -50,7 +50,8 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 
 
-###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*     
+###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
+<br>    
 
 
 <!-- ========= Start SPONSOR BADGE ========= -->
@@ -58,27 +59,20 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
   <a href="https://github.com/sponsors/Mindful-AI-Research">
     <img
-      src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90%20%E2%8B%86-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
-      alt="Sponsor ॐ ⋆ Mindful AI ⋆ Research & Consulting 𖤐 ⋆"
+      src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
+      alt="Sponsor ॐ Mindful AI ⋆ Research & Consulting 𖤐"
       height="36"
-    >
   </a>
 </p>
-
-<br>
-
 <!-- ========= END SPONSOR BADGE ========= -->
 
-⠀⠀⠀⠀⠀..
-.　　　　　　　　　　　　　. 　　⠀　  
-　　　　　　　.　　　ﾟ .　　　　　　　　　　　　.       
+⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
+　　　　　　　⠀  　　　　　⠀　
+.　　　　　　　　　　　　　. 　　⠀　  　　　.　　　ﾟ .　　　　　　　　　　　　.       
 　　　　　　　⠀  　　　　　⠀　
 ### <p align="center"> ✯ **[𝒪𝓃ℯ𝓃ℯ𝓈𝓈 𝒞ℴ𝓃𝓈𝒸𝒾ℴ𝓊𝓈𝓃ℯ𝓈𝓈](https://github.com/user-attachments/assets/a521fe68-b792-49ac-a139-a8a83b7c2be2)** ✯
 
-
-<br>
-
-
+　　　　　　　　　. ⠀⠀⠀⠀　　. 　　　　　　　　　    　                           * ⠀⠀           ⠀.　　　　　　  　　　　. ⠀⠀⠀　　　　　　　⠀  　　　　　⠀
 <!-- ========= START VIDEO ========= -->
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
@@ -110,7 +104,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 #### <p align="center"> <sub>  [✠]() Lo Ringraziamo [Da Vinci ](https://github.com/user-attachments/assets/b172e8b1-86f9-4003-9945-b60e4926e6a7) ! [✠](https://github.com/user-attachments/assets/15d99c3e-a1fa-4bbf-afc7-420398fdca4c) </sub>
 
-<br><br><br>><br>
+<br><br><br><br>
 <!-- ========= END DA VINCI  REF ========= -->
 
 
@@ -160,9 +154,10 @@ Today, Mindful AI grows as a collaborative organization with 42+ contributors, b
 
 > [!IMPORTANT]
 >
-> ###### Every project, every model, every line of code is part of a larger purpose: <br>
->
-> ###### *Building a future where* [***AI Serves Humanity***]();  [***Not the Opposite***]().
+>  *Every project, every model, every line of code contributes to a greater mission:*
+> 
+>  *Shaping a future where* [***AI Serves Humanity***]() ; [***Never the Opposite***]().
+
 
 
 <br><br>
@@ -302,9 +297,7 @@ At Mindful AI, Compliance is a Core Pillar, Not an Afterthought.
 
 >[!TIP]
 >
-> Everyone is invited to build, contribute, and evolve with us. 🖤 
-> <br>
->
+> ###### 🛸 Everyone is invited to build, contribute, and evolve with us.   
 
 <br><br>
 
