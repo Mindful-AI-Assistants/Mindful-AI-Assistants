@@ -102,7 +102,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 -->
 
-<h6 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.}  \space \textbf{\color{DodgerBlue}Study the art of science…}  \space \textbf{\color{DeepSkyBlue}Realize that everything connects} \space \textbf{\color{LightSkyBlue}to everything else}}$$
+<h4 align="center"> $$\Huge{\textbf{\color{Blue}Study the science of art.}  \space \textbf{\color{DodgerBlue}Study the art of science…}  \space \textbf{\color{DeepSkyBlue}Realize that everything connects} \space \textbf{\color{LightSkyBlue}to everything else}}$$
 
 
 <br>
