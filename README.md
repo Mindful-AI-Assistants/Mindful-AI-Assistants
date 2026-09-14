@@ -53,17 +53,18 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 ###### <p align="center"> [↗](https://github.com/Mindful-AI-Research/.github/blob/f6f25a2c5a47bec52778d11caaa167b8297ef069/A%20Definition%20of%20AGI.pdf) *A Definition of AGI*
 <br>    
 
-
 <!-- ========= Start SPONSOR BADGE ========= -->
 <p align="center">
 
   <a href="https://github.com/sponsors/Mindful-AI-Research">
     <img
+\]
       src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90-3A424C?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=07111F"
       alt="Sponsor ॐ Mindful AI ⋆ Research & Consulting 𖤐"
       height="36"
   </a>
 </p>
+
 <!-- ========= END SPONSOR BADGE ========= -->
 
 ⠀⠀⠀⠀⠀..   　ﾟ .　　　　　　　　　　　　.       
